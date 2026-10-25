@@ -1,0 +1,15 @@
+# Závislosti a nástroje
+node_modules/
+.wrangler/
+.dev.vars
+.env*
+
+# Lokální nastavení editoru a Claude
+.claude/
+.vscode/
+.idea/
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
+*.log
